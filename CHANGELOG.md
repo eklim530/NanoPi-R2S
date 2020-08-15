@@ -1,3 +1,6 @@
+## 20200815
+* 开启adguardhome
+
 ## 20200809
 * 新增 luci-app-oled
 
